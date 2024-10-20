@@ -10,7 +10,7 @@
 I'm a communication and electronics student who is passionate about Embedded Software.
 
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-ayman-599076222/) [Gmail](https://github.com/mohamed-mansy)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-ayman-599076222/) [Gmail](mohamedmanci0@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
