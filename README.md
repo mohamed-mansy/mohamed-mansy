@@ -7,9 +7,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded Software.
+DevOps Engineer with a foundation in CI/CD pipelines, cloud infrastructure, and automation
+tools. Experienced in bridging the gap between development and operations to deliver
+scalable, secure, and high-performing applications.
 
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-ayman-599076222/) [Gmail](https://www.mohamedmanci0@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
