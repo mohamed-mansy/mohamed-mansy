@@ -3,7 +3,7 @@
 
 - 💬 About Me:
 **DevOps and Software Engineer who loves building scalable, cloud-native applications. I enjoy working across the full software lifecycle — from development to deployment — using modern DevOps practices and tools.
-🚀 What I Do
+🚀 What I Do:
 🐧 Manage and optimize systems using Linux and Bash scripting 🐳 Develop and containerize applications using Docker and Kubernetes 🔄 Automate infrastructure and configuration with Ansible ⚙️ Build CI/CD pipelines using GitHub Actions and Azure DevOps 🌐 Design and deploy microservices with Node.js, Express, React, and PostgreSQL ☁️ Deploy, scale, and monitor environments on AWS 📊 Implement monitoring and alerting using Prometheus and Grafana 🔐 Focus on reliability, automation, and DevOps best practices**
 
 - 📫 How to reach me **mohamedmanci0@gmail.com**
