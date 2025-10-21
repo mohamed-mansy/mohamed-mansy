@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman Farouk</h1>
 <h3 align="center">A passionate DevOps developer</h3>
 
-- 💬 Ask me about **DevOps & Cloud Engineer with hands-on experience in CI/CD pipelines, containerization, infrastructure automation, and cloud environments. Passionate about learning Kubernetes, improving deployment processes, and ensuring system reliability.**
+- 💬 About Me **DevOps and Software Engineer who loves building scalable, cloud-native applications. I enjoy working across the full software lifecycle — from development to deployment — using modern DevOps practices and tools. 🐧 Manage and optimize systems using Linux and Bash scripting 🐳 Develop and containerize applications using Docker and Kubernetes 🔄 Automate infrastructure and configuration with Ansible ⚙️ Build CI/CD pipelines using GitHub Actions and Azure DevOps 🌐 Design and deploy microservices with Node.js, Express, React, and PostgreSQL ☁️ Deploy, scale, and monitor environments on AWS 📊 Implement monitoring and alerting using Prometheus and Grafana 🔐 Focus on reliability, automation, and DevOps best practices**
 
 - 📫 How to reach me **mohamedmanci0@gmail.com**
 
