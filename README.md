@@ -6,7 +6,7 @@
 🚀 What I Do:
 🐧 Manage and optimize systems using Linux and Bash scripting 🐳 Develop and containerize applications using Docker and Kubernetes 🔄 Automate infrastructure and configuration with Ansible ⚙️ Build CI/CD pipelines using GitHub Actions and Azure DevOps 🌐 Design and deploy microservices with Node.js, Express, React, and PostgreSQL ☁️ Deploy, scale, and monitor environments on AWS 📊 Implement monitoring and alerting using Prometheus and Grafana 🔐 Focus on reliability, automation, and DevOps best practices**
 
-- 📫 How to reach me **mohamedmanci0@gmail.com** | **01129572130**
+- 📫 How to reach me **mohamedmanci0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
